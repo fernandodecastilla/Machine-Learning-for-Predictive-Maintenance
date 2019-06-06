@@ -1,6 +1,8 @@
 # Machine-Learning-for-Predictive-Maintenance
 Anomaly detection and failure prognosis applied to industrial machines.
 
+The raw dataset is availbale in: https://pysparksampledata.blob.core.windows.net/sampledata/sampledata.csv
+
 The design and implementation of the Master's Final Project is structured in three directories:
 
 - Notebooks: implementation of the MFP in Python through phases of the life cycle.
