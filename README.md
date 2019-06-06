@@ -1,5 +1,5 @@
 # Machine-Learning-for-Predictive-Maintenance
-Anomaly detection and failure prognosis applied to industrial machines
+Anomaly detection and failure prognosis applied to industrial machines.
 
 The design and implementation of the Master's Final Project is structured in three directories:
 
