@@ -1,7 +1,7 @@
 # Machine-Learning-for-Predictive-Maintenance
 Anomaly detection and failure prognosis applied to industrial machines.
 
-The raw dataset is availbale in: https://pysparksampledata.blob.core.windows.net/sampledata/sampledata.csv
+The raw dataset (1.3 GB) is availbale in: https://pysparksampledata.blob.core.windows.net/sampledata/sampledata.csv
 
 The design and implementation of the Master's Final Project is structured in three directories:
 
